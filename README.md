@@ -1,6 +1,6 @@
  ## Olá, me chamo Crystofher Lins
 - 👀 Tenho interesse em programação em geral
-- 🌱 Atualmente estou estudando React
+- 🌱 Desenvolvendo Skills em Nest.js
 
  <div>
   <a href="https://github.com/Cryslash">
